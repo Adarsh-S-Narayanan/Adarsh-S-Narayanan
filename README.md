@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React , Nodejs , HTML and CSS**
 
-- 🤝 I’m looking for help with **Frontend**
+- 🤝 I’m looking for help with **Backend**
 
 - 📫 How to reach me **adarshsnarayanan123@gmail.com**
 
